@@ -6,19 +6,19 @@ Projeto feito com objetivo de puxar dados da aplicação e retornar um email inf
 
 
 ### Tecnologias utilizadas
-Lista de tecnologias utilizadas no projeto
-Python 3
-Biblioteca requests
-Biblioteca smtplib
-Biblioteca email
-API OpenWeatherMap
+Lista de tecnologias utilizadas no projeto:
+. Python 3
+. Biblioteca requests
+. Biblioteca smtplib
+. Biblioteca email
+. API OpenWeatherMap
 
-####Funcionalidades
+###Funcionalidades
 
-Obter informações meteorológicas de uma cidade usando a API do OpenWeatherMap.
-Verificar se a temperatura está abaixo de 30 graus Celsius.
-Enviar um e-mail de alerta caso a temperatura seja inferior a 30 graus Celsius.
-Executar o script continuamente, verificando a temperatura a cada 10 minutos.
+. Obter informações meteorológicas de uma cidade usando a API do OpenWeatherMap.
+. Verificar se a temperatura está abaixo de 30 graus Celsius.
+. Enviar um e-mail de alerta caso a temperatura seja inferior a 30 graus Celsius.
+. Executar o script continuamente, verificando a temperatura a cada 10 minutos.
 
 
 ### Demonstração da aplicação
