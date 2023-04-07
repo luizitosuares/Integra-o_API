@@ -13,10 +13,11 @@ As principais tecnologias utilizadas neste projeto foram:
 Funcionalidades
 As principais funcionalidades deste projeto são:
 
-Obter informações meteorológicas de uma cidade usando a API do OpenWeatherMap.
-Verificar se a temperatura está abaixo de 30 graus Celsius.
-Enviar um e-mail de alerta caso a temperatura seja inferior a 30 graus Celsius.
-Executar o script continuamente, verificando a temperatura a cada 10 minutos.
+- Obter informações meteorológicas de uma cidade usando a API do OpenWeatherMap.
+- Verificar se a temperatura está abaixo de 30 graus Celsius.
+- Enviar um e-mail de alerta caso a temperatura seja inferior a 30 graus Celsius.
+- Executar o script continuamente, verificando a temperatura a cada 10 minutos.
+
 Como utilizar
 Para utilizar este projeto, você precisa seguir os seguintes passos:
 
