@@ -4,11 +4,12 @@ Este é um projeto em Python 3 que tem como objetivo puxar dados da API do OpenW
 Tecnologias utilizadas
 As principais tecnologias utilizadas neste projeto foram:
 
-Python 3
-Biblioteca requests
-Biblioteca smtplib
-Biblioteca email
-API OpenWeatherMap
+- Python 3
+- Biblioteca requests
+- Biblioteca smtplib
+- Biblioteca email
+- API OpenWeatherMap
+
 Funcionalidades
 As principais funcionalidades deste projeto são:
 
