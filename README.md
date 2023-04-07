@@ -1,7 +1,7 @@
-Integração API Meteorológica
+# Integração API Meteorológica
 Este é um projeto em Python 3 que tem como objetivo puxar dados da API do OpenWeatherMap para verificar se a temperatura de uma cidade está abaixo de 30 graus Celsius. Caso a temperatura seja inferior a 30 graus Celsius, o script envia um e-mail de alerta.
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 As principais tecnologias utilizadas neste projeto foram:
 
 - Python 3
@@ -10,7 +10,7 @@ As principais tecnologias utilizadas neste projeto foram:
 - Biblioteca email
 - API OpenWeatherMap
 
-Funcionalidades
+### Funcionalidades
 As principais funcionalidades deste projeto são:
 
 - Obter informações meteorológicas de uma cidade usando a API do OpenWeatherMap.
@@ -18,7 +18,7 @@ As principais funcionalidades deste projeto são:
 - Enviar um e-mail de alerta caso a temperatura seja inferior a 30 graus Celsius.
 - Executar o script continuamente, verificando a temperatura a cada 10 minutos.
 
-Como utilizar
+## Como utilizar
 Para utilizar este projeto, você precisa seguir os seguintes passos:
 
 Faça o download ou clone deste repositório em sua máquina local.
