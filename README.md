@@ -31,7 +31,7 @@ O script será executado continuamente, verificando a temperatura da cidade a ca
 
 ### Demonstração da aplicação
 
-![codigo1](https://user-images.githubusercontent.com/127349318/230668243-c7449116-eebe-4b96-86b4-fecb1621915f.JPG)
+
 
 
 ![codigo2](https://user-images.githubusercontent.com/127349318/230668236-57c99546-2cd8-4a49-b5d9-97fc22aebecf.JPG)
